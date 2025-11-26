@@ -37,6 +37,7 @@ https://github.com/aisyahmusfirah/tugas-besar-komputasi-statistik-kelompok-3/blo
 
 ### **Dataset**
 https://github.com/aisyahmusfirah/tugas-besar-komputasi-statistik-kelompok-3/blob/main/data_gempa.csv
+
 ---
 
 ## 📊 **Ringkasan Hasil Utama**
