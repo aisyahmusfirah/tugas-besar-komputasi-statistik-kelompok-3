@@ -33,6 +33,10 @@ Hasil penelitian menunjukkan proses konvergensi yang jelas pada parameter model 
 ### **PowerPoint Presentasi**
 
 ### **Kode Pengerjaan**
+https://github.com/aisyahmusfirah/tugas-besar-komputasi-statistik-kelompok-3/blob/main/kode_pengerjaan.ipynb
+
+### **Dataset**
+https://github.com/aisyahmusfirah/tugas-besar-komputasi-statistik-kelompok-3/blob/main/data_gempa.csv
 ---
 
 ## 📊 **Ringkasan Hasil Utama**
